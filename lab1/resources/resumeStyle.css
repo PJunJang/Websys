@@ -1,0 +1,81 @@
+html{
+    box-sizing: border-box;
+}
+*,*:before,*:after{
+    box-sizing: inherit;
+}
+img{
+    max-width: 50%;     /* limits the size of the img*/
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2;   /*each line's height*/
+    background : #f2f2f2; /*light grey background*/
+}
+
+.contents{
+    max-width: 1000px;
+    margin: 50px auto ;
+    padding: 32px;
+    background: white;
+}
+
+section{ /* used grid for the lay out*/
+    display:grid;
+    grid-template-columns: 1fr 2fr; /*set the proportion for blocks*/
+    padding: 24px 0;
+    border-bottom: 1px solid black;
+}
+
+section:last-child{
+    border-bottom: none; /* no bottom border in last section*/
+}
+.section-title{
+    font-size: 18px;
+    font-weight: bold; /* to make these titles stand out*/
+}
+.name{
+    
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 3; 
+}
+#contactInfo{   /*Point of Contact*/
+    color: blue;
+    font-size: 14px;
+    line-height: 1.5; 
+}
+.jobTitle{  /* works for both Experience section and Education Section*/
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid grey;      /* bottom border for each subsection */
+    line-height: 2;
+}
+.jobTitle:last-child{
+    border-bottom: none;    /* no bottom border in last section*/
+}
+.profile{
+    font-size: 10px;   
+}
+.workplace{
+    font-size : 15px;
+    font-weight : bold;     /* to make each organization's name stands out*/
+}
+.range{ 
+    font-size: 10px;
+    color:darkgrey;
+    text-align: right;      /*bottom right corner of each*/
+}
+.Skills{
+    display:grid;           /* grid layout*/
+    grid-template-columns: 1fr 1fr;     /*set portion as 1:1*/
+    grid-gap:10px;              /*set extra gap between*/
+    line-height: 2;
+}
+.hobby_list{
+    line-height: 2;
+}
+.AwardsTitle{
+    line-height: 2;
+}
