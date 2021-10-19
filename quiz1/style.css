@@ -1,0 +1,45 @@
+
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgba(128, 0, 0, 0.842); 
+    font-weight: bold;
+}
+
+p{
+    color:blue; 
+    font-style: italic;
+}
+.euro{
+    text-align:center;
+    padding-top: 5%;
+}
+#others{
+    width:300px;
+    margin:auto;
+}
+.usdBtn{
+    width:100px;
+    margin:auto;
+    display:block;
+}
+.krwBtn{
+    width:100px;
+    margin:auto;
+    display:block;
+}
+.audBtn{
+    width:100px;
+    margin:auto;
+    display:block;
+}
+.cadBtn{
+    width:100px;
+    margin:auto;
+    display:block;
+}
+.hkdBtn{
+    width:100px;
+    margin:auto;
+    display:block;
+}
