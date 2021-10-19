@@ -1,0 +1,12 @@
+#index.html
+  1. I tried to make it's lay out neat and clear.
+  2. Used bootstrap for header/footer.
+  3. Imported "text.js" file in order to make it call json file into html.
+# css
+  For Css, I used quite simple styling.
+    1. Using different id, class tags, I aligned the features in form.
+# json
+  imported and downloaded in my hard.
+# js
+  didn't work at the end.
+  I tried to call them using my own customized function fill_element(), and for some reason I couldn't figure out, it didn't work.
