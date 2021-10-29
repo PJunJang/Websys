@@ -22,7 +22,8 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="shortcut icon" type="image/png" href="../favicon.png" />
 	<link rel="stylesheet" href="style.css">
-	<script type="text/javascript" src="script.js"></script>  
+  {% comment %} compressed javascript(28.75%), saved some with performance {% endcomment %}
+	<script type="text/javascript" src="compressed.js"></script>  
 	<title>Free Bee</title>
 
     </head>
@@ -45,14 +46,12 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
     <h2 id="play">Play Free Bee on the Web</h2>
 
     <div id="game">
-      <div id="playfield">
 	<div id="playfield-bg">
 	  <img id="comb1" class="bg" src="comb.png"><img id="comb2" class="bg" src="comb.png"><img id="comb3" class="bg" src="comb.png"><img id="comb4" class="bg" src="comb.png"><img id="comb5" class="bg" src="comb.png"><img id="comb6" class="bg" src="comb.png"><img id="comb7" class="bg" src="comb-inv.png">
 	</div>
 	<div id="playfield-fg">
 	  <img id="play1" class="fg" width="60" height="100"><img id="play2" class="fg" width="60" height="100"><img id="play3" class="fg" width="60" height="100"><img id="play4" class="fg" width="60" height="100"><img id="play5" class="fg" width="60" height="100"><img id="play6" class="fg" width="60" height="100"><img id="play7" class="fg" width="60" height="100">
 	</div>
-      </div>
     </div>
 
     <br />
