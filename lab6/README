@@ -1,1 +1,22 @@
 
+Lab6<PHP Calculator>
+Name: Paul Jang
+  For this lab, I used the provided php file as a template to work off. 
+  1. I created another abstract class named 'Operation_single' to handle calculations that requires only one value.
+    The followings are of the case above. This class contains a constructor that passes in only one argument($o1).
+    1) Sqrt
+    2) Squared
+    3) Log
+    4) Ln
+    5) 10^x (Tenp in my code)
+    6) e^x (Ep in my code)
+    7) Sin
+    8) Cos
+    9) Tan
+   For those listed above, calculation works if user puts only one value in the first input box.
+  2. Operation => abstract class 
+    This class contains a constructor that passes in two different argument($o1, $o2).
+    1) Addition, Subtraction, Multiplication, Division
+    2) Power
+   For those listed above, calulation works only if user puts values in both input boxes.
+   
