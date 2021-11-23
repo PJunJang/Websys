@@ -1,0 +1,30 @@
+/* Lab 9 CSS File 
+   In this css file, I modified some features to make its style consistent with the original pages.
+*/
+  
+html{
+  box-sizing: border-box;
+}
+*,*:before,*:after{
+  box-sizing: inherit;
+}  
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    background-image: url("./background.jpg"); /* import background img from resources folder */
+    background-repeat: no-repeat;
+    background-size: cover;   /* to make it cover a full page */
+  }
+  #lab8{
+    color: whitesmoke;
+  }
+  #bodyBlock {
+    width: 700px;
+    margin: auto;
+  }
+  .page{    /*Every content in the box named page*/
+    max-width: 1000px;
+    margin: 50px auto ;
+    padding: 32px;
+    background: lightslategrey;      
+    }
+  
