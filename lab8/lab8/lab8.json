@@ -1,0 +1,226 @@
+{
+    "websys_course": [
+        {
+            "lectures": [
+                {
+                    "lecture 1": [
+                        {
+                            "Title": "8/31: Introductions",
+                            "Description": "Web Systems Development Information, Unix/Apache/MySQL/PHP",
+                            "Link": "https://docs.google.com/presentation/d/1qSMVJNQK3CY7Kt2kdeSwhY_toGOaxexVRPZmvZqmg7Q/edit#slide=id.p"
+                        }
+                    ]
+                },
+                {
+                    "lecture 2": [
+                        {
+                            "Title": "9/3: The Basics",
+                            "Description": "Creating Groups for the semester and web architecture",
+                            "Link": "https://docs.google.com/presentation/d/1gvCq-nWWM4ggARP6liG94KJZeRBpaNoRm9CkmxbzWT0/edit#slide=id.g477661d3ff_0_70"
+                        }
+                    ]
+                },
+                {
+                    "lecture 3": [
+                        {
+                            "Title": "9/10: Group pages, Apache",
+                            "Description": "Apache Web Systems, Git learn lecture",
+                            "Link": "https://docs.google.com/presentation/d/1yqESGRC_v59VDIAUw1u3IsKPFFrqjrxQdD04I6cw6W0/edit#slide=id.p"
+                        }
+                    ]
+                },
+                {
+                    "lecture 4": [
+                        {
+                            "Title": "9/14: HTML5",
+                            "Description": "Only use HTML5! It is the only legal Doctype for us",
+                            "Link to Slideshow": "https://docs.google.com/presentation/d/1Mib4YI837526U_VMoOE6M9tBFY2DxWO6581VZuYzrEo/edit#slide=id.gef8926f551_0_47"
+                        }
+                    ]
+                },
+                {
+                    "lecture 5": [
+                        {
+                            "Title": "9/21: CSS",
+                            "Description": "Learning CSS (cascading style sheets) and making our own CSS grid",
+                            "Link": "https://docs.google.com/presentation/d/1usbhG9skLKmKpiMtA7udt36f2mzbscXT/edit?amp;ouid=101431771635793895949&amp;rtpof=true&amp;sd=true#slide=id.p1"
+                        }
+                    ]
+                },
+                {
+                    "lecture 6": [
+                        {
+                            "Title": "9/24: Advanced CSS",
+                            "Description": "Advanced CSS workshop and new CSS Rules",
+                            "Link": "https://docs.google.com/presentation/d/1Vp_-_fqCBtwhlgT3HhqMbXx-7Piv7OPiQvblxyznPZE/edit#slide=id.p"
+                        }
+                    ]
+                },
+                {
+                    "lecture 7": [
+                        {
+                            "Title": "9/28: JavaScript",
+                            "Description": "Learning about the client side scripting language",
+                            "Link": "https://docs.google.com/presentation/d/108yq32gLsn9Dn6_pjdpku9YagWjpaDuVY86BHfCB1KM/edit#slide=id.g62d6822338_0_50"
+                        }
+                    ]
+                },
+                {
+                    "lecture 8": [
+                        {
+                            "Title": "10/1: AJAX & JSON",
+                            "Description": "Representing JS data with JSON and AJAX",
+                            "Link": "https://docs.google.com/presentation/d/1CuKTZPsaJQs1DRgKbKHlObP_rTXv0HtAhm_wLFpEYfM/edit#slide=id.g62fcac20e8_0_254"
+                        }
+                    ]
+                },
+                {
+                    "lecture 9": [
+                        {
+                            "Title": "10/5: jQuery",
+                            "Description": "jQuery, a lightweight javascript library",
+                            "Link": "https://docs.google.com/presentation/d/1TOpBmwdZF1cUNfzcZ8t2DT237vvm5yFnqqi9mUzNBYw/edit#slide=id.ga062253b27_0_47"
+                        }
+                    ]
+                },
+                {
+                    "lecture 10": [
+                        {
+                            "Title": "10/12: quiz 1 Review and Frontend Optimization",
+                            "Description": "Getting performance analytics and lessening execution time",
+                            "Link": "https://docs.google.com/presentation/d/1xnWSdl3QlAJhhYZJB-L9qulDC2VGb67Ye5jGF5A0NTk/edit#slide=id.g9e9ff4048e_0_367"
+                        }
+                    ]
+                },
+                {
+                    "lecture 11": [
+                        {
+                            "Title": "10/29: PHP & Lab 6",
+                            "Description": "PHP Hypertext Prerpocessor, intrepreted language, well suited for  web development",
+                            "Link": "https://docs.google.com/presentation/d/1FQrs6bCzF6lyfCXYm--leU81zl9uMwLz/edit?amp;ouid=101431771635793895949&amp;rtpof=true&amp;sd=true#slide=id.p4"
+                        }
+                    ]
+                },
+                {
+                    "lecture 12": [
+                        {
+                            "Title": "11/5: MySQL",
+                            "Description": "MySQL, Relational Database Managgement System (RDBMS)",
+                            "Link": "https://docs.google.com/presentation/d/1b9FUdOQxXLWUB_tNlShdqN695tt8nwMh/edit?amp;ouid=101431771635793895949&amp;rtpof=true&amp;sd=true#slide=id.p3"
+                        }
+                    ]
+                },
+                {
+                    "lecture 13": [
+                        {
+                            "Title": "11/9: PHP & MySQL",
+                            "Description": "Sessions and Persistence",
+                            "Link": "https://docs.google.com/presentation/d/1hdchGQdRVq_vmLc4Ot1TbyDADWahZ15f/edit?amp;ouid=101431771635793895949&amp;rtpof=true&amp;sd=true#slide=id.p1"
+                        }
+                    ]
+                },
+                {
+                    "lecture 14": [
+                        {
+                            "Title": "11/12: PHP & MySQL, part 2",
+                            "Description": "Authentication and Authorization",
+                            "Link": "https://docs.google.com/presentation/d/1IVV09GiwEho8KN4j3XFa9oVdIkz1t9LW/edit?amp;ouid=101431771635793895949&amp;rtpof=true&amp;sd=true#slide=id.p1"
+                        }
+                    ]
+                },
+                {
+                    "lecture 15": [
+                        {
+                            "Title": "11/16: Quiz 2 review",
+                            "Description": "Review and Login and Logout",
+                            "Link": "https://docs.google.com/presentation/d/1i7WQnXzdwIccKC86zU3DmP_thmMgRpa7U2O-XjEEK88/edit#slide=id.p"
+                        }
+                    ]
+                },
+                {
+                    "lecture 16": [
+                        {
+                            "Title": "11/19: Authorization & Looking Ahead",
+                            "Description": "Looking ahead to Web Science and short wrap up",
+                            "Link": "https://docs.google.com/presentation/d/1i7WQnXzdwIccKC86zU3DmP_thmMgRpa7U2O-XjEEK88/edit#slide=id.p"
+                        }
+                    ]
+                }
+            ],
+            "labs": [
+                {
+                    "lab1": [
+                        {
+                            "title": "Lab 1",
+                            "description": "Create a portfolio webstie for your group",
+                            "instructions": "https://docs.google.com/document/d/1gfBFgyWVZ4HrudNXn4h_TCicEtdywLBdQxfIEZl-U98/edit"
+                        }
+                    ]
+                },
+                {
+                    "lab2": [
+                        {
+                            "title": "Lab 2",
+                            "description": "Constituion Day HMTL Doc Markup",
+                            "instructions": "https://docs.google.com/document/d/1oOEMKBc2Dq6C69Y_pkXRipkVYB5-b-UskvswnTOiNV0/edit"
+                        }
+                    ]
+                },
+                {
+                    "lab3": [
+                        {
+                            "title": "Lab 3",
+                            "description": "Recreating the ITWS Web Page",
+                            "instructions": "https://docs.google.com/document/d/1TAqC_JIZ70o3bf87aCTPtFJxXB4k-VSQzesWzNDsMJI/edit"
+                        }
+                    ]
+                },
+                {
+                    "lab4": [
+                        {
+                            "title": "Lab 4",
+                            "description": "Creating a web page for Gamma Nu Eta",
+                            "instructions": "https://docs.google.com/document/d/1VBy44Ts1Zly14JJPiFk1LeQnqEVVVHxbZQJzgRjrVfo/edit"
+                        }
+                    ]
+                },
+                {
+                    "lab5": [
+                        {
+                            "title": "Lab 5",
+                            "description": "Frontend Optimizations",
+                            "instructions": "https://docs.google.com/document/d/19fi99OeR6RFPDIMtio7xAyk7EkbvWlhiQzxi5LrS8hs/edit"
+                        }
+                    ]
+                },
+                {
+                    "lab6": [
+                        {
+                            "title": "Lab 6",
+                            "description": "PHP Calculator",
+                            "instructions": "https://docs.google.com/document/d/1Aur3WmROp_lYT6UIIs1HjlZrc450VoORUXVzrXajZ8c/edit"
+                        }
+                    ]
+                },
+                {
+                    "lab7": [
+                        {
+                            "title": "Lab 7",
+                            "description": "MySQL DB",
+                            "instructions": "https://docs.google.com/document/d/1ILpyD9LtNgXQ_g8-9bNV9DOgjZkL25Nup69x2wX0dHg/edit"
+                        }
+                    ]
+                },
+                {
+                    "lab8": [
+                        {
+                            "title": "Lab 8",
+                            "description": "Final Lab for the semester, combining all others",
+                            "instructions": "https://docs.google.com/document/d/1SIF9NwMwpI3HgYLhjoM0kAUpI5Pwp2-QefjjfE3FxBo/edit"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
